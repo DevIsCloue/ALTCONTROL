@@ -29,8 +29,8 @@ Places: admin
 
 getgenv().Prefix = "."
 
-getgenv().Operator = {}
-getgenv().Droppers = {}
+getgenv().Operator = {246393067}
+getgenv().Droppers = {240916432, 271864542,}
 
 --// Made by Homolife#1525
 --// discord.gg/encrypt
